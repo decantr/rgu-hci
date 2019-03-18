@@ -22,6 +22,7 @@ Requirements Capture and Specification
 User Sample
 .PP
 Initially I undertook a requirement gathering on a group of colleagues to ascertain the broad specifications list for the design.
+.sp
 .RS
 .IP 1
 What functionality would you expect from the app (maximum distance, opening times, tours available etc.)?
@@ -34,8 +35,11 @@ What functionality/features would you
 .B "not"
 want included?
 .RE
-
-
+.sp
+Below are the results from this survey of
+\# TODO : X
+participants.
+.bp
 .NH
 Conceptual Design
 .PP
