@@ -18,8 +18,22 @@ This document will focus on the user characteristics and requirements and provid
 
 .NH
 Requirements Capture and Specification
+.SH 2
+User Sample
 .PP
-
+Initially I undertook a requirement gathering on a group of colleagues to ascertain the broad specifications list for the design.
+.RS
+.IP 1
+What functionality would you expect from the app (maximum distance, opening times, tours available etc.)?
+.IP 2
+Would you want the app to track past visited locations to recommend places you may enjoy?
+.IP 3
+Would you want the app to include a rating feature (and would you use it)?
+.IP 4
+What functionality/features would you
+.B "not"
+want included?
+.RE
 
 
 .NH
