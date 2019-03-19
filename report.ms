@@ -39,6 +39,68 @@ want included?
 Below are the results from this survey of
 \# TODO : X
 participants.
+.SH 3
+Survey Respondents
+.PP
+.TS
+center;
+c s s s s
+l c n c c.
+User Sample Table
+Name	Age	Occupation	Native
+Adam	21	Student	Yes
+Liam	22	Student	Yes
+Steve 45	Mechanic	No
+Anne	24	Researcher	No
+Luke 22	Software Engineer Yes
+James	20	Barista	No
+Alice	23	Developer	No
+John	31	Carpenter	No
+Bill	29	IT	Yes
+.TE
+.SH 3
+Survey Responses
+.PP
+.TS
+center expand;
+c s s s s
+l c c c c.
+Survey Responses By Respondent
+Name	Question 1	Question 2	Question 3	Question 4
+Adam	T{
+Check for transport availability
+T}	Yes	Yes	None
+Liam	T{
+Opening times of venue
+T}	Yes	No	Have to sign up
+Steve	T{
+Access by public transport
+T}	No	No	Internet Acess
+Anne	T{
+Public Transport access and opening times
+T}	No	Yes	the past locations
+Luke	T{
+Ability to filter by distance, opening times
+T}	Yes	Yes	None
+James	T{
+Filter by cost/opening times
+T}	Yes	Yes	None
+Alice	T{
+Only see highly rated locations
+T}	Yes	Yes	None
+John	T{
+Link to the pages website, pictures of the place, make bookings for tours
+T}	No	Yes	Tracking of any kind
+Bill	T{
+If the place has food onsite, if not nearby locations
+T}	Yes	Yes	None
+.TE
+
+.SH 2
+Brainstorming session
+.PP
+Initially it was important to conduct a brainstorming session
+
 .bp
 .NH
 Conceptual Design
