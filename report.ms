@@ -7,19 +7,29 @@ Robert Gordon University
 .DA
 .AB
 First part of the Human Computer Interaction Coursework featuring the Requirements Capture and Specification and the Conceptual Design sections.
+In this coursework document I will take the role of a User Experience Interaction Design Consultant and will be providing an initial detailed design solution for a new system.
 .AE
 .NH
 Requirements Capture and Specification
 .SH 2
 Introduction
 .PP
-In this coursework document I will take the role of a User Experience Interaction Design Consultant and will be providing an initial detailed design solution for a new system.
-The proposed idea is a mobile application designed for tourists and travellers to locate iconic sites in and around Abereden.
-The experience will be couched for use with from a smartphone by non technical users.
+This report will detail the Design and Evaluation of the User Experience
+.B "UX" ) (
+of a mobile application.
+The proposed idea for the mobile application is designed to tourists and travellers to locate iconic sites in and around the Abereden area.
+The experience will be designed with use from a smartphone by primarily non technical users in mind.
+In order to achieve this a number of things must first be done, leading up to the Conceptual Design.
+Initially an concept for the application will be created based on the evaluating feedback from a user study.
+Then a set of User Profiles will be authored created along with problem scenarios in order to evaluate the concept application design from differing points of view.
+Further a People, Activities, Context and Technologies
+.B "PACT" ) (
+analysis will be undertaken evaluating the people and how they relate/interface with the application.
 This document will focus on the user characteristics and requirements and providing example solutions.
 .SH 2
 Evaluation of Concept
-\# TODO
+.PP
+
 .SH 2
 Features of the Initial Concept
 \# TODO
