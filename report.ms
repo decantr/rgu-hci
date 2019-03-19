@@ -26,234 +26,17 @@ analysis will be undertaken evaluating the people and how they relate/interface 
 .NH
 Requirements Capture and Specification
 .PP
-Initially, a requirement gathering on a group of colleagues was undertaken to ascertain a broad specifications list for the design.
-Below are the questions asked to a small group of ten participants.
-The results from this could then be used to formualate an inital concept.
-.sp
-.RS
-.IP 1
-What functionality would you expect from the app (maximum distance, opening times, tours available etc.)?
-.IP 2
-Would you want the app to track past visited locations to recommend places you may enjoy?
-.IP 3
-Would you want the app to include a rating feature (and would you use it)?
-.IP 4
-What functionality/features would you
-.B "not"
-want included?
-.RE
-.sp
-Below are the results from this survey of 10 participants.
-.SH 3
-Survey Respondents
-.PP
-.TS
-center;
-c s s s s
-l c n c c.
-User Sample Table
-Name	Age	Occupation	Native
-Adam	21	Student	Yes
-Liam	22	Student	Yes
-Steve	45	Mechanic	No
-Anne	24	Researcher	No
-Luke	22	Software Engineer	Yes
-James	20	Barista	No
-Alice	23	Developer	No
-John	31	Carpenter	No
-Bill	29	IT	Yes
-.TE
-.SH 3
-Survey Responses
-.PP
-.TS
-center expand;
-c s s s s
-l c c c c.
-Survey Responses By Respondent
-Name	Question 1	Question 2	Question 3	Question 4
-Adam	T{
-Check for transport availability
-T}	Yes	Yes	None
-Liam	T{
-Opening times of venue
-T}	Yes	No	Have to sign up
-Steve	T{
-Access by public transport
-T}	No	No	Internet Acess
-Anne	T{
-Public Transport access and opening times
-T}	No	Yes	the past locations
-Luke	T{
-Ability to filter by distance, opening times
-T}	Yes	Yes	None
-James	T{
-Filter by cost/opening times
-T}	Yes	Yes	None
-Alice	T{
-Only see highly rated locations
-T}	Yes	Yes	None
-John	T{
-Link to the pages website, pictures of the place, make bookings for tours
-T}	No	Yes	Tracking of any kind
-Bill	T{
-If the place has food onsite, if not nearby locations
-T}	Yes	Yes	None
-.TE
-.SH 3
-Discussion of Requested Features
-.PP
-Initially, a requirement gathering on a group of colleagues was undertaken to ascertain a broad specifications list for the design.
-Below are the questions asked to a small group of ten participants.
-The results from this could then be used to formualate an inital concept.
-.sp
-.RS
-.IP 1
-What functionality would you expect from the app (maximum distance, opening times, tours available etc.)?
-.IP 2
-Would you want the app to track past visited locations to recommend places you may enjoy?
-.IP 3
-Would you want the app to include a rating feature (and would you use it)?
-.IP 4
-What functionality/features would you
-.B "not"
-want included?
-.RE
-.sp
-Below are the results from this survey of 10 participants.
-.SH 3
-Survey Respondents
-.PP
-.TS
-center;
-c s s s s
-l c n c c.
-User Sample Table
-Name	Age	Occupation	Native
-Adam	21	Student	Yes
-Liam	22	Student	Yes
-Steve	45	Mechanic	No
-Anne	24	Researcher	No
-Luke	22	Software Engineer	Yes
-James	20	Barista	No
-Alice	23	Developer	No
-John	31	Carpenter	No
-Bill	29	IT	Yes
-.TE
-.SH 3
-Survey Responses
-.PP
-.TS
-center expand;
-c s s s s
-l c c c c.
-Survey Responses By Respondent
-Name	Question 1	Question 2	Question 3	Question 4
-Adam	T{
-Check for transport availability
-T}	Yes	Yes	None
-Liam	T{
-Opening times of venue
-T}	Yes	No	Have to sign up
-Steve	T{
-Access by public transport
-T}	No	No	Internet Acess
-Anne	T{
-Public Transport access and opening times
-T}	No	Yes	the past locations
-Luke	T{
-Ability to filter by distance, opening times
-T}	Yes	Yes	None
-James	T{
-Filter by cost/opening times
-T}	Yes	Yes	None
-Alice	T{
-Only see highly rated locations
-T}	Yes	Yes	None
-John	T{
-Link to the pages website, pictures of the place, make bookings for tours
-T}	No	Yes	Tracking of any kind
-Bill	T{
-If the place has food onsite, if not nearby locations
-T}	Yes	Yes	None
-.TE
-.SH 3
-Discussion of Requested Features
-.LP
-From the information gathered from respondents there is a number of conclusions that we can immediately draw.
-.QP
-Firstly, it's clear that peoples concerns are anti-features such as required internet access and tracking.
-Respondents who had complaints would mention tracking (three counts) and internet access (one count).
-Interestingly it would appear that the older respondents are the ones with the privacy concerns, while younger respondents are not as concerned.
-.sp
-.QP
-Secondly it would appear from the initial feedback that certain features that were not initially considered are worthwhile.
-Below are the list of features ranked in order of frequency.
-.RS
-.RS
-.IP 1
-Opening Times
-.IP 2
-Public Transport
-.IP 3
-Cost of Attendance
-.IP 4
-Rating
-.IP 5
-Link
-.IP 6
-Pictures
-.IP 7
-Booking
-.IP 8
-Food
-.IP 9
-Distance
-.RE
-.RE
-.PP
-Opening Times and Public Transport were mentioned four and three times respectively and thus should be a priority during the design phase.
-Other features were broad and each suggested once by different people and demonstrate the breadth of the potential use cases for this application.
-In our design of this application then, it is imperative that the Opening Times and Public Transport sections feature heavily on the final design.
-From this we can design our initial layout which we will get user feedback from.
+Initially I undertook an evaluation of similiar mobile apps in the field.
+Apps such as the ubiquitous Google Search implementation, the renowned TripAdvisor app and boutique guides of lonely planet were obvious choices.
+Further a simple search of
+.I "Travel"
+On the Google Play Store revealed a vast number of similiar apps with their own take on the idea.
+These apps all feature a similiar interface of a search bar that a user can type a location into and hints will be provided.
+Once a user has submitted a request a map showing the location is returned along with a series of useful functions such as directions, a function to initiate a phone call and a link to their website.
 
-.LP
+A requirement gathering on a group of colleagues was undertaken to ascertain a broad specifications list for the design.
+The results from this could then be used to formualate an inital concept.
 From the information gathered from respondents there is a number of conclusions that we can immediately draw.
-.QP
-Firstly, it's clear that peoples concerns are anti-features such as required internet access and tracking.
-Respondents who had complaints would mention tracking (three counts) and internet access (one count).
-Interestingly it would appear that the older respondents are the ones with the privacy concerns, while younger respondents are not as concerned.
-.sp
-.QP
-Secondly it would appear from the initial feedback that certain features that were not initially considered are worthwhile.
-Below are the list of features ranked in order of frequency.
-.RS
-.RS
-.IP 1
-Opening Times
-.IP 2
-Public Transport
-.IP 3
-Cost of Attendance
-.IP 4
-Rating
-.IP 5
-Link
-.IP 6
-Pictures
-.IP 7
-Booking
-.IP 8
-Food
-.IP 9
-Distance
-.RE
-.RE
-.PP
-Opening Times and Public Transport were mentioned four and three times respectively and thus should be a priority during the design phase.
-Other features were broad and each suggested once by different people and demonstrate the breadth of the potential use cases for this application.
-In our design of this application then, it is imperative that the Opening Times and Public Transport sections feature heavily on the final design.
-From this we can design our initial layout which we will get user feedback from.
 
 .SH 2
 Evaluation of Concept
@@ -267,16 +50,30 @@ PACT
 \# TODO
 .SH 2
 User Profiles
-.PP
-William, aged 62 is a Suffolk and is on holiday to Aberdeen.
+.XP
+.B "William"
+is a 62 year old veteran from Suffolk
 William was wounded during the Korean Conflict and is blind in one eye.
-William would like to take his grandaughter, Sally who is still in school, to the park.
-He opens the app and looks for parks in Aberdeen, choosing Seaton Park to go by Public Transport.
-The app informs him that from his location, Castlegate, to Seaton Park it will take ten minutes,  the St. Macher Cathedral in Old Aberdeen is on the way and recommends it as a stop along the way.
+He is not a big user of technology and has only recently received a smartphone as a gift from his daughter.
+William has a granddaughter Sally who he is visiting Aberdeen with, looking to see the iconic sites in and around the city.
+Fifteen years ago William visited Aberdeen and was taken with its wide variety of scenery and looks forward to seeing it again.
+William is a devout christian and would like to
+.XP
+.B "Maria"
+is a 29 year old bar manager from Hungary living in Aberdeen.
+She has been here for six years and in that time has learned a significant amount of the culture of the city and would like to experience more.
+Searching through the App store she finds the app and decides to try it out.
+She is well versed with technology and has no issues navigating most modern day apps.
+.QP
+Language will play a key part.
 .NH
 Problem Scenarios and Claims Analysis
 .PP
-.IP 1
+.XP
+.B "William"
+opens the app and looks for parks in thethe  Aberdeen area, choosing Seaton Park to go by Public Transport.
+The app informs him that from his location, Castlegate, to Seaton Park it will take ten minutes,  the St. Machar Cathedral in Old Aberdeen is on the way and recommends it as a stop along the way.
+Using the app he is able to click the link to view the website for the church and view service times.
 .IP 2
 .IP 3
 .NH
