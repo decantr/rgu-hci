@@ -8,18 +8,89 @@ Robert Gordon University
 .AB
 First part of the Human Computer Interaction Coursework featuring the Requirements Capture and Specification and the Conceptual Design sections.
 .AE
-.SH
+.NH
+Requirements Capture and Specification
+.SH 2
 Introduction
 .PP
 In this coursework document I will take the role of a User Experience Interaction Design Consultant and will be providing an initial detailed design solution for a new system.
 The proposed idea is a mobile application designed for tourists and travellers to locate iconic sites in and around Abereden.
 The experience will be couched for use with from a smartphone by non technical users.
 This document will focus on the user characteristics and requirements and providing example solutions.
+.SH 2
+Evaluation of Concept
+\# TODO
+.SH 2
+Features of the Initial Concept
+\# TODO
+.SH 2
+PACT
+\# TODO
+.SH 2
+User Profiles
+.PP
+William, aged 62 is a Suffolk and is on holiday to Aberdeen.
+William was wounded during the Korean Conflict and is blind in one eye.
+William would like to take his grandaughter, Sally who is still in school, to the park.
+He opens the app and looks for parks in Aberdeen, choosing Seaton Park to go by Public Transport.
+The app informs him that from his location, Castlegate, to Seaton Park it will take ten minutes,  the St. Macher Cathedral in Old Aberdeen is on the way and recommends it as a stop along the way.
+.NH
+Problem Scenarios and Claims Analysis
+.PP
+.IP 1
+.IP 2
+.IP 3
+.NH
+Discussion of Requested Features
+.SH 2
+System Features
+.PP
+\# TODO
+.SH 2
+System Pages
+.PP
+\# TODO
+.SH 2
+Undesirable Features
+.PP
+\# TODO
+.NH
+Walkthrough
+.SH 2
+Created Walkthrough
+.PP
+\# TODO
+.SH 2
+Walkthrough Evaluation
+.PP
+\# TODO
+.NH
+Conceptual Design
+.PP
+\# TODO
+.NH
+Conceptual Design Walkthrough
+
+
 
 .NH
-Requirements Capture and Specification
-.SH 2
-User Sample
+Conceptual Design
+.PP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .PP
 Initially I undertook a requirement gathering on a group of colleagues to ascertain the broad specifications list for the design.
 .sp
@@ -128,26 +199,8 @@ Distance
 .RE
 .RE
 .PP
-Opening Times and Public Transporter were mentioned four and three times respectively and thus should be a priority during the design phase.
-Other features were broad and each suggested once by different people and demonstrate the bredth of the potential use cases for this application.
-
-.SH 2
-Brainstorming session
-.PP
-Initially it was important to conduct a brainstorming session
-
-.bp
-.NH
-Conceptual Design
-.PP
-
-.SH 2
-User Stories
-.PP
-William, aged 62 is a Suffolk and is on holiday to Aberdeen.
-William was wounded during the Korean Conflict and is blind in one eye.
-William would like to take his grandaughter, Sally who is still in school, to the park.
-He opens the app and looks for parks in Aberdeen, choosing Seaton Park to go by Public Transport.
-The app informs him that from his location, Castlegate, to Seaton Park it will take ten minutes,  the St. Macher Cathedral in Old Aberdeen is on the way and recommends it as a stop along the way.
-
+Opening Times and Public Transport were mentioned four and three times respectively and thus should be a priority during the design phase.
+Other features were broad and each suggested once by different people and demonstrate the breadth of the potential use cases for this application.
+In our design of this application then, it is imperative that the Opening Times and Public Transport sections feature heavily on the final design.
+From this we can design our initial layout which we will get user feedback from.
 
