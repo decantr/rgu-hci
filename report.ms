@@ -131,19 +131,30 @@ This would likely take the form of family outings or husband and wife trips for 
 The appealability of a tour guide for this demographic is large aswell as they are most familiar with getting the information about something from another person, rather than a screen.
 Finally the demographic of people from abroad is going to be taken into account as people who are not familiar with the area will be looking for a guide to the city.
 This app is perfectly positioned to provide that if the information is presented in a mutli-language and ease to parse fashion, i.e the inclusion of local name translations and phrase/dialact translation summaries would be appriciated.
-\# TODO
-
 .XP
 .B "Activities"
-- \# TODO
-
+- include any activiy that a user would like to carry out inside the application.
+Interfacing with this app can be done in a number of ways including searching for a specfic attraction or looking for attractions in an area or more broadly the creation of the itinerarys, searching for public transport and for leaving or looking at reviews or photos.
+These will require a different processes to be completed.
+To search for a location a name or genre must be entered and a list of locations will be returned showing the name and rating of the location.
+When viewing the main page of the site it would display a photograph of the location and information about it including cost, opening times and button linking to the directions function.
+Another activity that may be performed is the uploading of user photo which would be performed after 'checking in' to a location after a visit.
+From the drop down menu at the top the user can "upload a photo" to be viewed along with the other user uploaded images.
 .XP
 .B "Context"
-- \# TODO
-
+- For each task that we discussed above there are a number of enviroments that they could be performed in, this makes up the conetext.
+This includes the location its performed, inside at a desk or outside on the move for exmaple.
+The device its being accessed from whether it be mobile phone or a laptop.
+This would also include being used en route to the location, either looking at extra information or the like.
 .XP
 .B "Technologies"
-- \# TODO
+- This can include the functionality available in the smartphone such as its camera, which enables users to create their own photos or take photos of something that is not described on the application to ask for other users to submit an explanation.
+Further, headphones would allow a user to listen to audio que's for the directional services when they are being directed to a location or to listen to a narrated piece of information or if the user required the use of audio description.
+Input types would be covered by this too as whether they are using text to speech or a physical/on screen keyboard to enter their searches or responses.
+Locational services on the device they are using would allow reccomendations  of nearby locations or in use with the direction services.
+The use of a map allows users to visualise the distances between place in both 2D and 3D space allowing for better route planning.
+Finally the use of the filter in the search function is another exmaple as it allows user to refine their choice based on the input.
+
 
 .SH 2
 User Profiles
