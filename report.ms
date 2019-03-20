@@ -83,9 +83,10 @@ Gnuppa recently did an ancestry test uncovering his relation to Harald Hardrada.
 Gnuppa is visiting potential universities and cities to study history in and is looking for somewhere with deep historical roots.
 Gnuppa's was the second son of an army veteran and was not expected to continue the family heritage until his older brother was mortally injured in a reenactment holmgang.
 He does not speak English well and does not know anyone in the city and thus, again, is heavily reliant on the tools available to him thanks to technology, such as this app.
+He is also a avid beer drinker and enjoys visitingthe local pub scene in new areas.
 Despite this he is not well versed with technology and prephers the 'anologue' approach to things.
 A large part of his previous travels were with guides or a map and compass.
-However as Gnuppa will be travelling with his partner whom is also from Gotland and neither knows the language or Aberdeen, he has decided to purchase a smartphone for the occasion to maximize the opportunity
+However as Gnuppa will be travelling with his partner whom is also from Gotland and neither knows the language or Aberdeen, he has decided to purchase a smartphone for the occasion to maximize the opportunity.
 .QP
 Language will play a key part.
 .NH
@@ -109,6 +110,14 @@ Upon arrival she is dismayed to find that the centre is still closed for renovat
 She is fustrated having cycled all this way for nothing and is left wondering why the Gallery was listed as open on the App.
 .IP 3
 .B "Gnuppa" ,
+23 is beginning his tour of the UK in Aberdeen and was looking for a list of classic pubs with heritage to visit while he is here.
+He discovers the app and decides to try it out.
+Using the app he is able to create an itinerary for the day visiting a number of local pubs to and from a local heritage sight.
+After creating the itinerary for the day Gnuppa forwards it to his partner who is also able to add and remove stop.
+She changes swaps the location of one of the pubs to a sight of her choosing, thus altering the day plan for both of them.
+They embarked on their journey on foot and found the journey plan to be clear and easy to follow.
+Both Gnuppa and his partner both noted the ease of the setup process of the application along with creation and sharing of their day itinerary, and were overall impressed with the applications simplicity of design and ease of use.
+
 .IP 4
 .B "Maria"
 discovered the application through the app store on her phone and decides to try it out.
