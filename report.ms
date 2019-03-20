@@ -52,18 +52,28 @@ PACT
 User Profiles
 .XP
 .B "William"
-is a 62 year old veteran from Suffolk
+is a 57 year old veteran from Suffolk
 William was wounded during the Korean Conflict and is blind in one eye.
-He is not a big user of technology and has only recently received a smartphone as a gift from his daughter.
+He is not a big user of technology and has only recently received a smartphone as a gift from his daughter and only reluctantly uses is.
 William has a granddaughter Sally who he is visiting Aberdeen with, looking to see the iconic sites in and around the city.
 Fifteen years ago William visited Aberdeen and was taken with its wide variety of scenery and looks forward to seeing it again.
-William is a devout christian and would like to
+William is a devout christian and would be interested in seeing the local churches while he is in the city.
+As William qualifies for a bus pass he will mostly be utilising the public transport system to get around, and walking were neccassery.
 .XP
 .B "Maria"
 is a 29 year old bar manager from Hungary living in Aberdeen.
 She has been here for six years and in that time has learned a significant amount of the culture of the city and would like to experience more.
 Searching through the App store she finds the app and decides to try it out.
 She is well versed with technology and has no issues navigating most modern day apps.
+Maria is over here on her own however her sister will be coming to visit for a week and she would like to show her around.
+Her sister however cannot speak english and will be relying heavily on the use of a translation app and Maria.
+Maria will be walking for the majority of the places and thus will be constrained to the sites in the city and those along the major bus routes.
+.XP
+.B "Ayleigh"
+is a 19 year old student from the Shetlands and is coming to Aberdeen to study Art at Gray's School of Art.
+Ayleigh has always had a keen interest in history and the arts.
+She hopes that by becoming better versed in the rich tapestery of Aberdonian history she is better placed to in the creation of her work for her course.
+
 .QP
 Language will play a key part.
 .NH
