@@ -79,33 +79,6 @@ Further, they noted that they would appriciate the inclusion of audio descrption
 An inclusion of a language option would be essential for users coming who do not speak English or don't speak it well.
 This was a request fielded by respondents who were in their first year of being in the country and didn't have a good grasp on the dialect yet.
 Finally, although no respondents had a significant visual impairment requiring the use of a inverted or bold colour scheme it is worth noting is applicability for any potential users who would benefit from it.
-.SH 3
-seconday
-.XP
-videos
-animations
-offiline viewing
-weather
-save/favourite places
-step counter
-distance caclulator
-current trends in design
- - material design
- - hamburger menus
- - popup menu
- - popup menus
-
-.SH 3
-non features
-.XP
-tracking
-sigining in
-internet acces
-adverts
-only focus on aberdeen
-not allow prmotions
-cross platform
-voting/commenting on interies
 
 .SH 2
 PACT
@@ -154,8 +127,6 @@ Input types would be covered by this too as whether they are using text to speec
 Locational services on the device they are using would allow reccomendations  of nearby locations or in use with the direction services.
 The use of a map allows users to visualise the distances between place in both 2D and 3D space allowing for better route planning.
 Finally the use of the filter in the search function is another exmaple as it allows user to refine their choice based on the input.
-
-
 .SH 2
 User Profiles
 .XP
@@ -233,32 +204,51 @@ Maria was pleased to discover that the app was a clean and fast experience to us
 Upon opening the app she was presented with a recommendation of a historical site, upon reading Maria is faced with local dialact and phrases that require the context of local knowledge to understand and is a little dismayed that there is no explanative features available in the app.
 Despite using available translations applications the context was lacking and thus Maria felt somewhat lost on the definitions.
 .NH
-Discussion of Requested Features
-.SH 2
-System Features
-.PP
-\# TODO
-.SH 2
-System Pages
-.PP
-\# TODO
-.SH 2
-Undesirable Features
-.PP
-\# TODO
-.NH
 Walkthrough
-.SH 2
-Created Walkthrough
 .PP
-\# TODO
-.SH 2
-Walkthrough Evaluation
-.PP
-\# TODO
+Ayleigh would like to leave a photograph of the the closed Art Gallery and report the information on the page as incorrect, the step she would follow are lsited below.
+.SH 3
+Photo upload
+.IP 1
+Open the app
+.IP 2
+Click the Search Button
+.IP 3
+Type the name of the location "Art Gallery"
+.IP 4
+Select from the list the art gallery
+.IP 5
+Open the extra functions menu from the top right
+.IP 6
+Select "upload photo"
+.IP 7
+Choose her photo from her gallery
+.IP 8
+Type in a description of what the photo is "Closed for maintainance"
+.IP 9
+Click Submit
+
+.SH 3
+Report Information
+.SH 3
+Photo upload
+.IP 1
+Open the app
+.IP 2
+Click the Search Button
+.IP 3
+Type the name of the location "Art Gallery"
+.IP 4
+Select from the list the art gallery
+.IP 5
+Open the extra functions menu from the top right
+.IP 6
+Selet "Report incorrect information"
+.IP 7
+Type the reason for the report "Art Gallery is closed for 2 weeks"
+.IP 8
+Select Submit
+
 .NH
 Conceptual Design
-.PP
-\# TODO
-.NH
-Conceptual Design Walkthrough
+
