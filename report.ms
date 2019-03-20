@@ -252,3 +252,9 @@ Select Submit
 .NH
 Conceptual Design
 
+.RS
+.RS
+.QP
+.I "fig 1. "
+.RE
+
