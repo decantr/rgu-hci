@@ -40,11 +40,70 @@ From the information gathered from respondents there is a number of conclusions 
 
 .SH 2
 Evaluation of Concept
-.PP
+.SH 3
+Primary
+.XP
+Users asked about the initial design of the application noted the Opening times as one of the primary features needed for the application as it would be essential for any type of plan to be made for the day.
+Further because of the itinerary feature, requested and discussed later, it would be essential to provide a fucntional and working plan playout so that users of the app did not arrive to find the location closed or not opened yet.
+.XP
+The Cost of location was also a highly requested functionality of the program as respondents stated they would like to know the approximate costing of an outing before they begin.
+This is a mixed blessing however as it could be seen by some as an initial "buy in" cost to go to a location and discourage some potential atendants from going in the first place.
+The addition of this functionality is therefore a controversial thing as it would create a seperation of events between those who only want to attend the free locations/areas and those who don't mind.
+.XP
+A Rating System was another largely requested feature as users of the application would like to know how it was received by other people going to the place before they design and plan a day around going there, especially if it is far away.
+Similarily to the point made above this will lead to a seperation of the most popular events floating to the top of a ratings section and thus reating a self fulfilling loop of top rated places.
+To counteract this a feature of "hidden gems" will need to be implementted to help lesser known locations be discovered by users of the application.
+.XP
+Image Uploading by the users and owners of the site page would be ideal as it would allow potential visitors to get an idea of the place and become enthused about visiting areas or draw attention to lesser known areas.
+This feature of allowing users to upload their own images could  be accompanied by a filtering tool of some kind, managed either the maintainers of the app or the owners of the site page, who can ensure the high quality and that images are related to the site location.
+This could also be accompanied by a feature also requested which was to allow the rating of other user uploaded imagery thus allowing a self moderating approach to the site pages.
+.XP
+Directions will play a huge role in how users interface with the app, as reflected by the user feedback obtained.
+Users will be using the application to find out of town, or out of the way locations that will be potentially trivial for locals to find but perhaps more difficult for tourists and other visitors to find their way to.
+This directions functionality can incorporate a series of other feaures musch like that seen in the likes of Google Maps, Apple Maps and OpenStreetMap which allow the realtime live building of route map.
+Any route map funcitonality should include the ability for it be dynamic, for exmaple if a user takes a wrong turn or cannot turn where the app is directing them, then it should be able to account for this and readjust the course to take into acount the new location.
+Further, the ability to choose public transport and get route names for busses, times of arrival and nearest stop information would be invaluable to users, as demonstrated in the results to the user survey, especially those coming from out of town.
+Users also requested the functionality of requesting alternative routes to a location, going via different locations or just to change from walking to public transport to suit their needs.
+This functionality would help further with the addition of the later discussed itinerary planner and allow for a finer level of control from users.
+.XP
+A map implementation for both viewing sites and the directions would be ideal, however respndents were mixed in their desires to have a 2D flat map much in the sense of a classic road map or a 3D map more akin to a globe view.
+"This is something that could be provided as a toggle", one respondent noted which would allow a greater level of customization for the user.
+How to interact with the map was another topic of response, as some respondents indicited a desire to use the map to perform a number of the functions provided by the landing page
+.sp
+Accessability
+ - font sizes
+ - audio descriptions
+ - languages
+ - colour
+.SH 3
+seconday
+.XP
+videos
+animations
+offiline viewing
+weather
+save/favourite places
+step counter
+distance caclulator
+current trends in design
+ - material design
+ - hamburger menus
+ - popup menu
+ - popup menus
 
-.SH 2
-Features of the Initial Concept
-\# TODO
+.SH 3
+non features
+.XP
+tracking
+sigining in
+internet acces
+adverts
+only focus on aberdeen
+not allow prmotions
+cross platform
+voting/commenting on interies
+
+
 .SH 2
 PACT
 \# TODO
@@ -117,7 +176,6 @@ After creating the itinerary for the day Gnuppa forwards it to his partner who i
 She changes swaps the location of one of the pubs to a sight of her choosing, thus altering the day plan for both of them.
 They embarked on their journey on foot and found the journey plan to be clear and easy to follow.
 Both Gnuppa and his partner both noted the ease of the setup process of the application along with creation and sharing of their day itinerary, and were overall impressed with the applications simplicity of design and ease of use.
-
 .IP 4
 .B "Maria"
 discovered the application through the app store on her phone and decides to try it out.
