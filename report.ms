@@ -110,7 +110,34 @@ voting/commenting on interies
 
 .SH 2
 PACT
+.QP
+The
+.B "PACT"
+analysis is used by the designer during the intial process to force the designer to evalute the design from the perspective of
+.B "People"
+using the proposed system, the
+.B "Activity"
+that they will be carrying out, the
+.B "Context"
+in which the user will be performing the action and finaly the technologies they will be using to carry it out.
+This allows the designer to choose more niche set of test users when implementing the Problem Scenarios.
+.XP
+.B "People"
+-
 \# TODO
+
+.XP
+.B "Activities"
+- \# TODO
+
+.XP
+.B "Context"
+- \# TODO
+
+.XP
+.B "Technologies"
+- \# TODO
+
 .SH 2
 User Profiles
 .XP
@@ -217,9 +244,3 @@ Conceptual Design
 \# TODO
 .NH
 Conceptual Design Walkthrough
-
-
-
-.NH
-Conceptual Design
-.PP
