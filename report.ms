@@ -107,7 +107,6 @@ not allow prmotions
 cross platform
 voting/commenting on interies
 
-
 .SH 2
 PACT
 .QP
@@ -123,7 +122,15 @@ in which the user will be performing the action and finaly the technologies they
 This allows the designer to choose more niche set of test users when implementing the Problem Scenarios.
 .XP
 .B "People"
--
+- would be aimed towards those with a keen interest in the history of Aberdeen and would like to see it first hand.
+Potential Users would include the student population, young adults and the elderly.
+As the smart phone is primarily in the domain of the student and young adult demographic they are undeniably an important aspect of any design to the app.
+Thus the app would be remiss to not include functionality to find things such as classic style pubs and local event spaces holding relating events.
+Further as the older users and elderly tend to have more of an incination to tour areas and view sites their needs should be highly targeted.
+This would likely take the form of family outings or husband and wife trips for a few hours.
+The appealability of a tour guide for this demographic is large aswell as they are most familiar with getting the information about something from another person, rather than a screen.
+Finally the demographic of people from abroad is going to be taken into account as people who are not familiar with the area will be looking for a guide to the city.
+This app is perfectly positioned to provide that if the information is presented in a mutli-language and ease to parse fashion, i.e the inclusion of local name translations and phrase/dialact translation summaries would be appriciated.
 \# TODO
 
 .XP
