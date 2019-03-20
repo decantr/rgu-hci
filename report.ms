@@ -68,13 +68,17 @@ This functionality would help further with the addition of the later discussed i
 .XP
 A map implementation for both viewing sites and the directions would be ideal, however respndents were mixed in their desires to have a 2D flat map much in the sense of a classic road map or a 3D map more akin to a globe view.
 "This is something that could be provided as a toggle", one respondent noted which would allow a greater level of customization for the user.
-How to interact with the map was another topic of response, as some respondents indicited a desire to use the map to perform a number of the functions provided by the landing page
-.sp
-Accessability
- - font sizes
- - audio descriptions
- - languages
- - colour
+How to interact with the map was another topic of response, as some respondents indicited a desire to use the map to perform a number of the functions provided by the landing page.
+These functions include the locations of the places as markers on the map which can be clicked to produce the information relevant to that location.
+Areas on the map could also be long clicked to reveal a list of locations around the point selected which users could then use to develop a guide plan of where to go.
+.XP
+Accessability is hugely important factor to include in any application.
+As this application is going to be largely targeted at both people from abroad and those not well versed with the nuances of modern technology.
+The need for this was reflected in the repsonses as the primary concern was font size for the older respondents, where they noted they find it largely difficult to see the smaller text often found on modern day smartphones.
+Further, they noted that they would appriciate the inclusion of audio descrptions for functions/places however this would not be something they would use as it would be largely "too complicated" for users to work.
+An inclusion of a language option would be essential for users coming who do not speak English or don't speak it well.
+This was a request fielded by respondents who were in their first year of being in the country and didn't have a good grasp on the dialect yet.
+Finally, although no respondents had a significant visual impairment requiring the use of a inverted or bold colour scheme it is worth noting is applicability for any potential users who would benefit from it.
 .SH 3
 seconday
 .XP
