@@ -64,7 +64,7 @@ As William qualifies for a bus pass he will mostly be utilising the public trans
 is a 29 year old bar manager from Hungary living in Aberdeen.
 She has been here for six years and in that time has learned a significant amount of the culture of the city and would like to experience more.
 Searching through the App store she finds the app and decides to try it out.
-She is well versed with technology and has no issues navigating most modern day apps.
+She is well versed with technology and has no issues navigating most modern day apps and feels she can adapt quickly to new technologies.
 Maria is over here on her own however her sister will be coming to visit for a week and she would like to show her around.
 Her sister however cannot speak english and will be relying heavily on the use of a translation app and Maria.
 Maria will be walking for the majority of the places and thus will be constrained to the sites in the city and those along the major bus routes.
@@ -78,7 +78,7 @@ Ayleigh has never been to Aberdeen and knows noone here and thus will be very re
 Ayleigh is an avid cyclist and will be utilizing a bicycle to reach most places in a wide range around the city.
 .XP
 .B "Gnuppa"
-is 23 and from the isle of Gotland.
+is 23 and from the isle of Gotland, Sweden.
 Gnuppa recently did an ancestry test uncovering his relation to Harald Hardrada.
 Gnuppa is visiting potential universities and cities to study history in and is looking for somewhere with deep historical roots.
 Gnuppa's was the second son of an army veteran and was not expected to continue the family heritage until his older brother was mortally injured in a reenactment holmgang.
@@ -92,12 +92,23 @@ Language will play a key part.
 Problem Scenarios and Claims Analysis
 .PP
 .XP
-.B "William"
-opens the app and looks for parks in thethe  Aberdeen area, choosing Seaton Park to go by Public Transport.
-The app informs him that from his location, Castlegate, to Seaton Park it will take ten minutes,  the St. Machar Cathedral in Old Aberdeen is on the way and recommends it as a stop along the way.
+.B "William" ,
+57, not being a local will require clear guidance in getting around.
+He opens the app and looks for parks in the Aberdeen area, he is presented with a list of available locations he decides on Duthie Park and as he has the pass, decides on getting thei r by Public Transport.
+The app informs him that not only has a nice area to feed ducks and relax but a gardens inside the park with a cafe available.
+He is also discovers that from his location, Castlegate, to Seaton Park it will take ten minutes, and that the St. Machar Cathedral in Old Aberdeen is on the way and recommends it as a stop along the way.
 Using the app he is able to click the link to view the website for the church and view service times.
+p
 .IP 2
 .IP 3
+.IP 4
+.XP
+.B "Maria"
+discovered the application through the app store on her phone and decides to try it out.
+This particular app was of great interest to her as it represented a boutique experience designed for Aberdeen and should give more detail that the standard travel app for the area.
+Maria was pleased to discover that the app was a clean and fast experience to use and she found it free of ads and other distractions.
+Upon opening the app she was presented with a recommendation of a historical site, upon reading Maria is faced with local dialact and phrases that require the context of local knowledge to understand and is a little dismayed that there is no explanative features available in the app.
+Despite using available translations applications the context was lacking and thus Maria felt somewhat lost on the definitions.
 .NH
 Discussion of Requested Features
 .SH 2
