@@ -80,9 +80,12 @@ Ayleigh is an avid cyclist and will be utilizing a bicycle to reach most places 
 .B "Gnuppa"
 is 23 and from the isle of Gotland.
 Gnuppa recently did an ancestry test uncovering his relation to Harald Hardrada.
-Gnuppa is visiting potential universities and cities to study hisory in and is looking for somewhere with deep historical roots.
-Gnuppa's was the second son to a army veteran and was unexpected to continue the family heritage until his older brother was mortally injured in a recreation holmgang.
-
+Gnuppa is visiting potential universities and cities to study history in and is looking for somewhere with deep historical roots.
+Gnuppa's was the second son of an army veteran and was not expected to continue the family heritage until his older brother was mortally injured in a reenactment holmgang.
+He does not speak English well and does not know anyone in the city and thus, again, is heavily reliant on the tools available to him thanks to technology, such as this app.
+Despite this he is not well versed with technology and prephers the 'anologue' approach to things.
+A large part of his previous travels were with guides or a map and compass.
+However as Gnuppa will be travelling with his partner whom is also from Gotland and neither knows the language or Aberdeen, he has decided to purchase a smartphone for the occasion to maximize the opportunity
 .QP
 Language will play a key part.
 .NH
