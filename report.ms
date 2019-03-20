@@ -90,21 +90,28 @@ However as Gnuppa will be travelling with his partner whom is also from Gotland 
 Language will play a key part.
 .NH
 Problem Scenarios and Claims Analysis
-.PP
-.XP
+.IP 1
 .B "William" ,
 57, not being a local will require clear guidance in getting around.
 He opens the app and looks for parks in the Aberdeen area, he is presented with a list of available locations he decides on Duthie Park and as he has the pass, decides on getting thei r by Public Transport.
 The app informs him that not only has a nice area to feed ducks and relax but a gardens inside the park with a cafe available.
 He is also discovers that from his location, Castlegate, to Seaton Park it will take ten minutes, and that the St. Machar Cathedral in Old Aberdeen is on the way and recommends it as a stop along the way.
 Using the app he is able to click the link to view the website for the church and view service times.
-p
 .IP 2
+.B "Ayleigh" ,
+19 having recently arrived in Aberdeen is looking for locations to visit around the city.
+She looks for an app to provide this on the app store and finds this app.
+After deciding to download the app she has a look around.
+She is presented with a landing page/home page which shows her highly rated attractions and landmarks near her that she can visit.
+She chooses the Aberdeen Art Gallery and chooses the fastest route by bike on the directions page.
+On her route she passes a number of locations that peak her interest and shes uses the app to 'save' them for later.
+Upon arrival she is dismayed to find that the centre is still closed for renovation, and has been for some time.
+She is fustrated having cycled all this way for nothing and is left wondering why the Gallery was listed as open on the App.
 .IP 3
+.B "Gnuppa" ,
 .IP 4
-.XP
 .B "Maria"
-discovered the application through the app store on her phone and decides to try it out.
+discovered the application through the app store on her phone and decides to try it out.
 This particular app was of great interest to her as it represented a boutique experience designed for Aberdeen and should give more detail that the standard travel app for the area.
 Maria was pleased to discover that the app was a clean and fast experience to use and she found it free of ads and other distractions.
 Upon opening the app she was presented with a recommendation of a historical site, upon reading Maria is faced with local dialact and phrases that require the context of local knowledge to understand and is a little dismayed that there is no explanative features available in the app.
