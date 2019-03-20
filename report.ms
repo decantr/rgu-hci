@@ -73,6 +73,15 @@ Maria will be walking for the majority of the places and thus will be constraine
 is a 19 year old student from the Shetlands and is coming to Aberdeen to study Art at Gray's School of Art.
 Ayleigh has always had a keen interest in history and the arts.
 She hopes that by becoming better versed in the rich tapestery of Aberdonian history she is better placed to in the creation of her work for her course.
+She hopes to find inspiration from the numerous classical and modern pieces found around the city.
+Ayleigh has never been to Aberdeen and knows noone here and thus will be very reliant on student groups / meet and greets / travel apps to experience the city.
+Ayleigh is an avid cyclist and will be utilizing a bicycle to reach most places in a wide range around the city.
+.XP
+.B "Gnuppa"
+is 23 and from the isle of Gotland.
+Gnuppa recently did an ancestry test uncovering his relation to Harald Hardrada.
+Gnuppa is visiting potential universities and cities to study hisory in and is looking for somewhere with deep historical roots.
+Gnuppa's was the second son to a army veteran and was unexpected to continue the family heritage until his older brother was mortally injured in a recreation holmgang.
 
 .QP
 Language will play a key part.
