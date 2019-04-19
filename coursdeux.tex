@@ -97,7 +97,7 @@ The rating system is likely the most influential as it allows the users to very 
 \section{Final Conceptual Design}
 \section{Evaluation}
 \section{Storyboarding}
-\subsection{mainpage}
+\subsection{Shared}
 \subsubsection{profile}
 The profile button in the top left of all of the pages will allow the user to access the profile management section of the UI.
 This page includes the ability to sign in/sign out along with register.
@@ -119,9 +119,59 @@ If a user wanted to perform the action of editing a past review, the process wou
 	\item Make nesseccary changes
 	\item Select the "Save Changes" button
 \end{enumerate}
-
 This would give feedback to the user informing them that the edits were successful, or not, and return them to the list of reviews.
-
+\subsubsection{Menu}
+The menu provides a "maximum one click" navigation to all the disperate functions of the application, from anywhere within the application.
+This allows the user a point of reference incase they become overwhelmed in the menus and just want to perform a single function.
+The use of the "hamburger" iconography is a well recognised symbol representing a menu and thus ensures that the maximum number of people are able to understand and utilize its functionality.
+The contents of the menu contains the following.
+\begin{itemize}
+	\item Home
+	\item Map
+	\item Top Rated
+	\item Profile
+	\item Reviews (points to users reviews)
+	\item Logout
+\end{itemize}
+If a user wanted to use the menu to navigate to the map to select a new location near to themselves and they were on the user reviews feeds the process of navigating to it is simple, as described below.
+\begin{enumerate}
+	\item Tap on the menu icon
+	\item Find the desired menu option (Map)
+	\item Tap on the desired menu option
+\end{enumerate}
+This then navigates the user to the maps screen, immediately.
+\subsubsection{Search}
+The search functionality allows the user to search all of the local attractions.
+The returned list is then sorted by the top rated areas, and will offer a greyed out option for places that the user has already visited and reviewed.
+This has a dual purpose of helping the user keep track of visited locations while providing an incentive to visit more locations to grey out them all.
+This functionality is very well understood by all and simply tapping in the search bar activates the system keyboard so entry can begin.
+When the user enters the first character the page is silently moved to the search results page and options appear and are filtered as characters are entered.
+\subsubsection{Licence & Version}
+As with most open source projects require the displaying of their name and trademark (if they have one) on the application itself this is a good way to booth reassure that the application is up to date.
+\subsection{Homepage}
+The homepage is the main page of the application as it aggregates the three ways to find the attractions.
+\begin{itemize}
+	\item Search
+	\item Map
+	\item Top Feed
+\end{itemize}
+The search bar is at the top to ensure that the user observes it first as it is the most likely destination for a user.
+Following this is the map so that a user can see, at a glance if there is anything nearby and if so, what it is.
+Lastly is the top feed, this is most likely used by the user when they don't have a specific destination in mind and just want to explore.
+A user landing on the page has a number of options as to how to operate with the application as described above, in this instance we will follow a user who wishes to find the top rated attraction that they have not already visited, regardless of distance or price.
+\begin{enumerate}
+	\item Open the application
+	\item Scroll the page down
+	\item Find the first non-grey item
+	\item Select it by tapping on it
+	\item Ensure that it matches criteria by examining the page
+	\item Choose directions (if required)
+\end{enumerate}
+The app would then helpfully open the, as mentioned before, native maps application (Apple, Google, OSM) and enter navigation mode.
+The use of the native application ensures a consistency of design for users unfamiliar with the distinction between first and third party apps and allows the leveraging the power of these map applications.
+\subsection{Search / List}
+This page contains the results obtained when performing a search.
+The list
 \section{Conclusion}
 
 
