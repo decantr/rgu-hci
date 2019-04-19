@@ -32,8 +32,8 @@
 	As observed from the results above we can see that the primary concerns are mostly in the core functionality previously discussed but the addition of a "nearby locations" would help increase the user experience.
 	Conversely we can see that the decision to not include a profile function in the early prototyping was useful as some respondents raised concerns with data collection.
 	However a number of the core features, such as the rating and the photo adding will require this feature.
-
 \section{Initial Scenario Based Designs}
+It is worth mentioning for all of the following designs it is expected to be be nested inside of a standard Mobile Phone UI, and thus back functionality is provided by the implementation of the users individual phone manufacturer.
 \subsection{Design 1}
 \include{tables/table0}
 \include{tables/table1}
@@ -42,7 +42,6 @@
 \include{tables/table0-1}
 \include{tables/table1-1}
 \include{tables/table2-1}
-
 \section{CogTool}
 To determine if the additions to design one made in design two negatively or positively affected the use of the application to perform a given task, CogTool was employed.
 The previously shown pages were imported as frames and links drawn over to simulate the clickable areas.
@@ -62,11 +61,27 @@ Use search to find a destination then find Directions"&"8.2"&"6.8" \\
 
 \begin{table}[H]
 \hspace{-2.5cm}
+\includegraphics{images/cogtoolresults.jpg}
+	\caption{Frame layout for Design 1}
+\end{table}
+\begin{table}[H]
+\hspace{-2.5cm}
 \includegraphics{images/cogtoolframes.jpg}
 	\caption{Frame layout for Design 1}
 \end{table}
 
 \subsection{Task 1}
+Unsurprisingly there was little difference between Design one and Design two which is to be expected as the critical path taken by the user was the same in both designs, only with the addition of some extra buttons that the user has to parse in Design two.
+Thankfully though this had no effect on the computational time.
+The user is expected, when following this path to arrive on the main page and move into the map screen which is cleary visible on the homescreen.
+From here they are allowed a long period of time while the browse the map for a location near to them.
+The users then selects the location they have chosen and are taken to the "information" page for that venue.
+It is here that the user is also expected to spend an amount of time reading all of the available information, the descriptions varying in length but on average around ~20 seconds.
+The ratings on this page allow the user to get an at a glance review of the location and decide whether it is worth continuing reading.
+The review section can also be clicked on to expand and reveal the individual reviews, allowing them to be vetted or hints to be shared.
+Once the user has decided, the directions button is then clicked which redirects the user to the native maps implementation e.g. Apple Maps, Google Maps or OSM, and the start and destination fields filled for navigation.
+The second design merely adds the "local attractions" functionality, returning information about on-site dining and local pubs/restaurant
+\subsection{Task 2}
 
 
 
