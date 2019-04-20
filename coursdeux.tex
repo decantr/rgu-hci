@@ -7,7 +7,8 @@
 
 \begin{document}
 	\maketitle
-
+	\section{Abstract}
+	Report for the second part of the Human Computer Interaction coursework.
 	\section{User Feedback}
 	The user feedback recieved described in this section will inform the on the designs reviewed in the next section.
 	A series of questions were sent out and users asked to respond on these, below are the results.
@@ -58,7 +59,6 @@ Use search to find a destination then find Directions"&"8.2"&"6.8" \\
 \hline
 \end{tabular}
 \end{table}
-
 \begin{table}[H]
 \hspace{-2.5cm}
 \includegraphics{images/cogtoolresults.jpg}
@@ -69,7 +69,6 @@ Use search to find a destination then find Directions"&"8.2"&"6.8" \\
 \includegraphics{images/cogtoolframes.jpg}
 	\caption{Frame layout for Design 1}
 \end{table}
-
 \subsection{Task 1}
 Unsurprisingly there was little difference between Design one and Design two which is to be expected as the critical path taken by the user was the same in both designs, only with the addition of some extra buttons that the user has to parse in Design two.
 Thankfully though this had no effect on the computational time.
@@ -92,10 +91,6 @@ In this task the user, again from the homepage, operates the search bar to initi
 This then returns a scrollable list for the user to peruse.
 In the initial design this is a rather spartan layout, however in design two the added ratings and the extra hinting on the search bar to ease the visibility of it, lead to a reduction of two seconds in the operation.
 The rating system is likely the most influential as it allows the users to very quickly make a judgement on attraction.
-\section{User Evaluation}
-\section{Final Changes}
-\section{Final Conceptual Design}
-\section{Evaluation}
 \section{Storyboarding}
 \subsection{Shared}
 \subsubsection{profile}
@@ -132,6 +127,7 @@ The contents of the menu contains the following.
 	\item Profile
 	\item Reviews (points to users reviews)
 	\item Logout
+	\item Help
 \end{itemize}
 If a user wanted to use the menu to navigate to the map to select a new location near to themselves and they were on the user reviews feeds the process of navigating to it is simple, as described below.
 \begin{enumerate}
@@ -146,7 +142,7 @@ The returned list is then sorted by the top rated areas, and will offer a greyed
 This has a dual purpose of helping the user keep track of visited locations while providing an incentive to visit more locations to grey out them all.
 This functionality is very well understood by all and simply tapping in the search bar activates the system keyboard so entry can begin.
 When the user enters the first character the page is silently moved to the search results page and options appear and are filtered as characters are entered.
-\subsubsection{Licence & Version}
+\subsubsection{Licence \& Version}
 As with most open source projects require the displaying of their name and trademark (if they have one) on the application itself this is a good way to booth reassure that the application is up to date.
 \subsection{Homepage}
 The homepage is the main page of the application as it aggregates the three ways to find the attractions.
@@ -171,10 +167,25 @@ The app would then helpfully open the, as mentioned before, native maps applicat
 The use of the native application ensures a consistency of design for users unfamiliar with the distinction between first and third party apps and allows the leveraging the power of these map applications.
 \subsection{Search / List}
 This page contains the results obtained when performing a search.
-The list
+The list shows the post pertinent information to the venue such as the title, image, cost and opening hours.
+When the designed was finalised the addition off the ratings was also included.
+This list, much like the Top Feed is complimented by the visited check provided by greying out the articles.
+Scrolling through the list users can quickly see where they have been and where they haven't, and from that determine where they want to go based on the ratings from others and whats available to them in terms of time, openings, and cost.
+\section{Map}
+The map screen is the arguably the simplest part of the application.
+The map can be scrolled, zoomed and moved to locate the desired location.
+This location can then be selected to take the user to the information page containing all the necessary information.
 \section{Conclusion}
-
-
-
-
+In the design and research of this application a number of previously neglected ideas as to how to approach the problem became apparent.
+The original designs was a simplistic application with a single interface to the user.
+This made sense from a development standpoint, only have a single point of failure, KISS etc. but once it was fielded to a number of potential users for feedback it became apparent that the use cases far exceeded this.
+The separation of the homepage from the search results and the map was a product of this.
+Further the inclusion of a simple "Cards" design as described in the Material Design Guidelines aided the visual legibility of the app immensely.
+Allowing a broader range of users to access and utilize the application in a way that allowed them to bring pre-existing knowledge and muscle memory to the application.
+\linebreak
+The final design is a product of the iterative design process in a highly AGILE sense as the feedback suggests or rejects ideas and implementations changes had to be made.
+This process allowed the drilling down of the important features and aspect for the Interface and allowed the trimming of unnecessary features.
+The application meets the specification that was developed in tandem with the users requirements as they changed, no doubt with continued implementation of this process an even leaner and more hyper focused application would continue to emerge.
+However this being said the primary functions of the application are provided and well explained.
+Overall, the process documented in this report are a clear indicator of the value of constant user feedback in the design process.
 \end{document}
